@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CarteVisite</string>
+    <string name="description_place_1">The waterfall of Ras el-Maa is just beyond the far Northeastern gate of Chefchaouen Medina. It’s here, where the water comes gushing out of the mountain, that local women come to do their washing. The sound of the water and the verdant hills provide a sudden, strong dose of nature.</string>
+    <string name="title_1">Ras el-Maa CHEFCHAOUEN</string>
+
+    <string name="description_place_2">Well get ready for the blue right here with our guide to the Blue City! Chefchaouen, or the Blue Pearl of Morocco as it‘s commonly referred, is undoubtedly one of the top places to visit on a Moroccan itinerary. Having found huge success in tourism, Chefchaouen has something for every traveller or tourist.</string>
+    <string name="title_2">Chefchaouen</string>
+
+    <string name="description_place_3">Well get ready for the blue right here with our guide to the Blue City! Chefchaouen, or the Blue Pearl of Morocco as it‘s commonly referred, is undoubtedly one of the top places to visit on a Moroccan itinerary. Having found huge success in tourism, Chefchaouen has something for every traveller or tourist.</string>
+    <string name="title_3">Home</string>
+
+    <string name="change">Change</string>
+</resources>
